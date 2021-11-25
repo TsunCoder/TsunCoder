@@ -1,10 +1,10 @@
-### Hi there, I'm Thien Son aka Tsun 👋
-### Developer from Viet Nam
-- 💻 I’m currently learning C#, Python, HTML, CSS 🤣
-- 💬 Ask me about everything
-- 📫 How to reach me **thiensoncva01@gmail.com 📧**
-![Header](https://github.com/dinhxuanthienson/dinhxuanthienson/blob/main/140954611_895470937867925_4203157809632938404_n.jpg "Header")
-**
+<p align="center">
+  <img width="" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif" />
+  <h1 align="center">Hi there, I'm Thien Son aka Tsun 👨‍💻</h1>
+</p>
+
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dinhxuanthienson">
