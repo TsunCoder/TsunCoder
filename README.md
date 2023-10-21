@@ -1,5 +1,6 @@
 <img width="" src="Image/Profile.png">
- ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /> <img align="right" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif">
+Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /> 
+<img align="right" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif">
 
 Glad to see you here!
 
