@@ -3,7 +3,8 @@
 
 ## 🌱 About me
 <p> Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /></p>
-<p> My name's Thien Son, I'm living in Da Lat city, Viet Nam. Glad to see you here! </p>
+<p> My name's Thien Son, I'm living in Da Lat city, Viet Nam.</p> 
+<p> Glad to see you here! </p>
 
 ## 🔧 Technologies & Tools
 
